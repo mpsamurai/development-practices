@@ -1,2 +1,1 @@
-# development-practices
-Development practices at MPS.
+# Development Practices at MPS
